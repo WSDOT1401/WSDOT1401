@@ -1,4 +1,4 @@
-## I'm literally Ryan Gosling🔥
+## I'm literally a train, why are you still reading
 
 Developer who spend most of his time not developing
 
