@@ -6,5 +6,5 @@ Developer who spend most of his time not developing
 - **Languages**: Python, C++, C#, Rust, JavaScript (Node.js)
 - **Frameworks & Tools**: .NET, Vue.js, React
 
-### 💌 Contacts
-- [Contact via email](phatthadonsornplang@gmail.com)
+### 📫 Contacts
+- [Contact via email](mailto:phatthadonsornplang@gmail.com)
