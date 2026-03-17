@@ -1,6 +1,6 @@
-## I'm literally a train, why are you still reading
+## Choo choo
 
-Developer who spend most of his time not developing
+Developer who spend most of his time doing anything but code(sometimes)
 
 ### 💻 What I Work With
 [![What I do](https://skillicons.dev/icons?i=python,cpp,cs,rust,html,css,js)](https://skillicons.dev)
