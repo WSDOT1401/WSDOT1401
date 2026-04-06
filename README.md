@@ -3,7 +3,7 @@
 Developer who spend most of his time doing anything but code(sometimes)
 
 ### 💻 What I Work With
-[![What I do](https://skillicons.dev/icons?i=python,cpp,cs,rust,html,css,js)](https://skillicons.dev)
+[![What I do](https://skillicons.dev/icons?i=python,cpp,cs,rust,html,css,js,ts)](https://skillicons.dev)
 ### 🔨 Frameworks & Tools
 [![Frameworks & Tools](https://skillicons.dev/icons?i=react,vue,dotnet,npm,nodejs)](https://skillicons.dev)
 ### 🚃 Random stuff, mostly interest
