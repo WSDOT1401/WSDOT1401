@@ -1,6 +1,6 @@
 ## Choo choo
 
-Developer who spend most of his time doing anything but code(sometimes)
+Developer who spend most of his time doing anything but code
 
 ### 💻 What I Work With
 [![What I do](https://skillicons.dev/icons?i=python,cpp,cs,rust,html,css,js,ts)](https://skillicons.dev)
